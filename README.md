@@ -10,7 +10,7 @@ i can do the following:
 calling the API:
 `split.next_word();`
 will give me the first row
-`std::vecgor<int> {1,2,3,4,5}`
+`std::vector<int> {1,2,3,4,5}`
 and so forth...
 
 also could be used to split an std::string using a separator; very useful for parsing streams.
